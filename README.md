@@ -25,8 +25,3 @@
 ![parkminjo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkminjo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386)
 
 </br>
-
-## 🌱 지금은 이런 걸 공부하고 있어요
-- 매일 알고리즘 1문제 풀기
-- CS 기본기 다지기 (운영체제, 네트워크, 브라우저 렌더링)
-- 사용자 친화적인 UI/UX 고민하기
